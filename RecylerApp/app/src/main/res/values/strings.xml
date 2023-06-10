@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Recyle Hero</string>
+    <string-array name="Waste_Types">
+    <item>Plastic Waste</item>
+        <item>Paper Waste</item>
+        <item>Metal Waste</item>
+        <item>E-waste</item>
+        <item>Glass </item>
+        <item>Clothing </item>
+
+    </string-array>
+</resources>

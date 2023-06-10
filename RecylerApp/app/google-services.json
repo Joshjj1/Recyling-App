@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647780469277",
+    "project_id": "recycle-hero-17d35",
+    "storage_bucket": "recycle-hero-17d35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647780469277:android:ec5655114d0865b539d4f4",
+        "android_client_info": {
+          "package_name": "com.example.recylerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647780469277-rd5shta6jf138384i6kd373b16o8m2kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQmS8n_3k_JK58islwf6hpZeMdjBPe4Bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647780469277-rd5shta6jf138384i6kd373b16o8m2kb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
